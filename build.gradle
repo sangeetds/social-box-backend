@@ -40,7 +40,7 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok'
 
     // Spring API docs
-    implementation 'org.springdoc:springdoc-openapi-ui:1.5.6'
+    implementation 'org.springdoc:springdoc-openapi-ui:1.6.15'
 
     // Tests
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
